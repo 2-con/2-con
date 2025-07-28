@@ -1,7 +1,7 @@
 # 2 CON
 ## About Me
 Artificial Intellegence and Machine Learning Student.
-I would consider myself *self-taught*, so i might have some gaps in my knowledge and have a lot to learn.
+I would consider myself *self-taught*, so i might have some gaps in my knowledge and have a lot left to learn.
 
 I mainly program in Python with some experience in JAVA.
 
