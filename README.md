@@ -3,7 +3,7 @@
 Artificial Intellegence and Machine Learning Student.
 I would consider myself *self-taught*, so i might have some gaps in my knowledge and have a lot left to learn.
 
-I mainly program in Python with some experience in JAVA.
+I mainly program in Python and a fair bit of experience in JAVA.
 
 ## Projects
 
@@ -30,5 +30,5 @@ I mainly program in Python with some experience in JAVA.
 
 **Garudahacks**
 - Up and coming Garudahacks team member
-- More than excited to contribute to the effort
+- Looking forward to contribute to the team!
 
