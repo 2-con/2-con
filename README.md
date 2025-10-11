@@ -1,9 +1,9 @@
 # 2 CON
 ## About Me
-Artificial Intellegence and Machine Learning Student.
-I would consider myself *self-taught*, so i might have some gaps in my knowledge and have a lot left to learn.
+Hi!
 
-I mainly program in Python and a fair bit of experience in JAVA.
+Im a self-taught Artificial Intellegence and Machine Learning Student who specializes in backend development. Aside from AI/ML, i also dabble in data engineering and data science as a hobby.
+I mainly program in Python and a fair bit of experience in Java.
 
 ## Projects
 
