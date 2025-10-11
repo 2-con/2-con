@@ -8,8 +8,8 @@ I mainly program in Python and a fair bit of experience in JAVA.
 ## Projects
 
 **PyNet** *(Ongoing)*
-- Looking for collaborators as a ML Developer or a Writer for the paper
 - Lead developer of the project
+- Looking for collaborators as a ML Developer or a Writer for the paper
 - Complimentary project for an upcoming research paper on machine learning
 
 ## Contributions
