@@ -21,7 +21,7 @@ I mainly program in Python and a fair bit of experience in Java.
 - includes basic deep learning models along with other supervised/unsupervised algorithms
 - made this just for fun as a challenge
 
-## Other Contributions
+## Relevant Contributions
 
 **Garudahacks**
 - working for Garudahacks as a Logistics planner
@@ -31,12 +31,12 @@ I mainly program in Python and a fair bit of experience in Java.
 - Responsible for all of the AI models that is used in the research paper
 
 **T-shirt start up**
-- CEO and IT for a t-shirt startup
-- Raised $380 within 4 month
-- 
+- was CEO and IT for a t-shirt startup
+- Raised $380 within 4 months
+
 **Dragonhacks**
 - Frontend website development for Dragonhacks
-- 1st ever school-backed hackathon
+- First ever school-backed hackathon
 - Tested the hackathon during launch day
 
 
