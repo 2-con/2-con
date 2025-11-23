@@ -23,10 +23,8 @@ I mainly program in Python and a fair bit of experience in Java.
 
 ## Other Contributions
 
-**Dragonhacks**
-- Frontend website development for Dragonhacks
-- 1st ever school-backed hackathon
-- Tested the hackathon during launch day
+**Garudahacks**
+- working for Garudahacks as a Logistics planner
 
 **Meteor-Shower Prediction**
 - Data scientist & data engineer
@@ -34,10 +32,12 @@ I mainly program in Python and a fair bit of experience in Java.
 
 **T-shirt start up**
 - CEO and IT for a t-shirt startup
-- Raised $380 within 4 months
-- Semi-finals in a district-level competition
+- Raised $380 within 4 month
+- 
+**Dragonhacks**
+- Frontend website development for Dragonhacks
+- 1st ever school-backed hackathon
+- Tested the hackathon during launch day
 
-**Garudahacks**
-- Up and coming Garudahacks team member
-- Looking forward to contribute to the team!
+
 
